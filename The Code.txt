@@ -1,0 +1,1 @@
+Runner.instance_.setSpeed(1000)
